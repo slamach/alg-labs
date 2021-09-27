@@ -1,0 +1,12 @@
+# Visual Studio
+.vs
+*.user
+
+# Build result
+Debug/
+
+# I/O
+*.in
+*.out
+input.txt
+output.txt
