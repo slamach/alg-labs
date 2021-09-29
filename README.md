@@ -1,7 +1,7 @@
-# Algorithms
-Problems I've solved at ITMO University :school_satchel:
+# Алгоритмы и структуры данных
+Задачи, решенные во время обучения в Университете ИТМО :school_satchel:
 
-- [Topic 1](/introduction) `Introduction`
-- [Topic 2](/sorting) `Sorting`
-- [Topic 3](/data-structures) `Data Structures`
-- [Topic 4](/graph-algorithms) `Graph Algorithms`
+- [Тема 1](/introduction) `Введение в алгоритмы`
+- [Тема 2](/sorting) `Сортировка`
+- [Тема 3](/data-structures) `Структуры данных`
+- [Тема 4](/graph-algorithms) `Алгоритмы на графах`
